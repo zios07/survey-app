@@ -10,7 +10,10 @@
     "experimentalDecorators": true,
     "target": "es5",
     "typeRoots": [
-      "node_modules/@types"
+      "./node_modules/@types"
+    ],
+    "types": [
+      "knockout"
     ],
     "lib": [
       "es2017",
