@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/survey-angular/survey.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/survey-angular/survey.angular.js"
+            ]
           },
           "configurations": {
             "production": {
